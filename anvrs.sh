@@ -116,7 +116,7 @@ echo ""
 echo $red"$keluhan Virus Detected [÷]"
 sleep 2
 clear
-sh antidos.sh
+sh antivirus.sh
 
 
 
